@@ -1,0 +1,4 @@
+Agrupamento:
+	- Kmeans
+	- Hierarquico: Dendograma
+http://www.fsma.edu.br/si/edicao4/FSMA_SI_2009_2_Tutorial.pdf
